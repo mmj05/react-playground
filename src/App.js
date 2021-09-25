@@ -36,7 +36,7 @@ function App() {
 function App() {
   return (
     <main className='App'>
-      <Counter step={1} />
+      <Counter step={1}/>
     </main>
   )
 }
